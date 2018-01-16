@@ -1,7 +1,7 @@
 ## Blockchain and Ethereum training 101, how to get started?
 This Github repository is a great place to get started with blockchain development. We will provide you with a great setup and give you useful pointers to start your blockchain development career with a :boom:.
 
-The first part, part 0, is a short one - in this part we will get your Mac setup for development. In part 1 you will create your first smart contract: the MetaCoin! After this, in part 2, you will test this contract using the test framework provided by Truffle ~and~ interact with it from a webpage!
+The first part, part 0, is a short one - in this part we will get your Mac setup for development. In part 1 you will create your first smart contract: the MetaCoin! After this, in part 2, you will test this contract using the test framework provided by Truffle *and* interact with it from a webpage!
 
 Let's get started: happy coding! 
 
